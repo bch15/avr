@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:51874B0A
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:28 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:30 "C:\cvavr\inc\alcd.h"
+NODE:T LEVEL:0 LINE:32 "byte"
+NODE:C LEVEL:0 LINE:34 "char0 -> FLASH"
+NODE:C LEVEL:0 LINE:36 "char1 -> FLASH"
+NODE:C LEVEL:0 LINE:38 "char2 -> FLASH"
+NODE:C LEVEL:0 LINE:40 "char3 -> FLASH"
+NODE:F LEVEL:0 LINE:42 "define_char(flash byte * pc,byte char_code)"
+NODE:F LEVEL:0 LINE:49 "main(void)"

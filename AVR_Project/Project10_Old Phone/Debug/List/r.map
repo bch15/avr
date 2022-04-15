@@ -1,0 +1,26 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+_base_y                                                                           0x0160       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+_lcd_x                                                                            R5           1
+_lcd_y                                                                            R4           1
+_lcd_maxx                                                                         R7           1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+main                                                                              0x0005C    298
+_lcd_write_nibble_G100                                                            0x00186     20
+_lcd_write_data                                                                   0x0019A     12
+lcd_gotoxy                                                                        0x001A6     13
+lcd_clear                                                                         0x001B3     10
+lcd_putchar                                                                       0x001BD     20
+lcd_init                                                                          0x001D1     43

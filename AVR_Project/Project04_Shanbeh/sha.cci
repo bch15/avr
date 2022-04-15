@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:51774040
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:28 "C:\cvavr\inc\lcd.h"
+NODE:T LEVEL:0 LINE:32 "byte"
+NODE:C LEVEL:0 LINE:34 "char0 -> FLASH"
+NODE:C LEVEL:0 LINE:35 "char1 -> FLASH"
+NODE:C LEVEL:0 LINE:45 "char2 -> FLASH"
+NODE:C LEVEL:0 LINE:46 "char3 -> FLASH"
+NODE:F LEVEL:0 LINE:49 "define_char(flash byte * pc,byte char_code)"
+NODE:F LEVEL:0 LINE:56 "main(void)"
