@@ -101,7 +101,8 @@ while (1)
        if(PINC.5==0)
        {
         while(PINC.5==0)
-        {lcd_gotoxy(i,0);
+        {
+        lcd_gotoxy(i,0);
          if(PINC.5==0)
          {
           op='2';
